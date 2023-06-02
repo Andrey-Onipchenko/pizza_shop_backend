@@ -1,0 +1,14 @@
+{
+  "name": "backend",
+  "version": "0.0.1",
+  "description": "",
+  "scripts": {
+    "start": "hasura console"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "hasura-cli": "^2.25.0"
+  }
+}
